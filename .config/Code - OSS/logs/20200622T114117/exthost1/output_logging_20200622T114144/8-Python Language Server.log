@@ -1,0 +1,49 @@
+[Info  - 11:41:47 am] Analysis cache path: /home/al/.cache/Microsoft/Python Language Server
+[Info  - 11:41:47 am] Microsoft Python Language Server version 0.5.50.0
+[Info  - 11:41:47 am] Workspace root: /home/al/ocr_server
+[Info  - 11:41:48 am] GetCurrentSearchPaths /home/al/.local/share/virtualenvs/ocr_server-ldMKCzQZ/bin/python 
+[Info  - 11:41:49 am] Interpreter search paths:
+[Info  - 11:41:49 am]     /usr/lib/python3.8
+[Info  - 11:41:49 am]     /usr/lib/python3.8/lib-dynload
+[Info  - 11:41:49 am]     /home/al/.local/share/virtualenvs/ocr_server-ldMKCzQZ/lib/python3.8/site-packages
+[Info  - 11:41:49 am] User search paths:
+[Info  - 11:41:58 am] Initializing for /home/al/.local/share/virtualenvs/ocr_server-ldMKCzQZ/bin/python
+[Info  - 11:41:59 am] Analysis caching mode: None.
+[Info  - 11:46:49 am] Analysis caching mode: None.
+[Info  - 11:46:52 am] Analysis cache path: /home/al/.cache/Microsoft/Python Language Server
+[Info  - 11:46:52 am] Microsoft Python Language Server version 0.5.50.0
+[Info  - 11:46:52 am] Workspace root: /home/al/ocr_server
+[Info  - 11:46:53 am] GetCurrentSearchPaths /usr/bin/python 
+[Info  - 11:46:54 am] Interpreter search paths:
+[Info  - 11:46:54 am]     /usr/lib/python3.8
+[Info  - 11:46:54 am]     /usr/lib/python3.8/lib-dynload
+[Info  - 11:46:54 am]     /home/al/.local/lib/python3.8/site-packages
+[Info  - 11:46:54 am]     /usr/lib/python3.8/site-packages
+[Info  - 11:46:54 am] User search paths:
+[Info  - 11:47:02 am] Initializing for /usr/bin/python
+[Info  - 11:47:03 am] Analysis caching mode: None.
+[Info  - 11:47:13 am] Analysis caching mode: None.
+[Info  - 11:47:18 am] Analysis cache path: /home/al/.cache/Microsoft/Python Language Server
+[Info  - 11:47:18 am] Microsoft Python Language Server version 0.5.50.0
+[Info  - 11:47:18 am] Workspace root: /home/al/ocr_server
+[Info  - 11:47:20 am] GetCurrentSearchPaths /usr/sbin/python 
+[Info  - 11:47:24 am] Interpreter search paths:
+[Info  - 11:47:24 am]     /usr/lib/python3.8
+[Info  - 11:47:24 am]     /usr/lib/python3.8/lib-dynload
+[Info  - 11:47:24 am]     /home/al/.local/lib/python3.8/site-packages
+[Info  - 11:47:24 am]     /usr/lib/python3.8/site-packages
+[Info  - 11:47:24 am] User search paths:
+[Info  - 11:47:27 am] Initializing for /usr/sbin/python
+[Info  - 11:47:27 am] Analysis caching mode: None.
+[Info  - 11:47:46 am] Analysis caching mode: None.
+[Info  - 11:47:51 am] Analysis cache path: /home/al/.cache/Microsoft/Python Language Server
+[Info  - 11:47:51 am] Microsoft Python Language Server version 0.5.50.0
+[Info  - 11:47:51 am] Workspace root: /home/al/ocr_server
+[Info  - 11:47:52 am] GetCurrentSearchPaths /home/al/.local/share/virtualenvs/ocr_server-ldMKCzQZ/bin/python 
+[Info  - 11:47:54 am] Interpreter search paths:
+[Info  - 11:47:54 am]     /usr/lib/python3.8
+[Info  - 11:47:54 am]     /usr/lib/python3.8/lib-dynload
+[Info  - 11:47:54 am]     /home/al/.local/share/virtualenvs/ocr_server-ldMKCzQZ/lib/python3.8/site-packages
+[Info  - 11:47:54 am] User search paths:
+[Info  - 11:47:56 am] Initializing for /home/al/.local/share/virtualenvs/ocr_server-ldMKCzQZ/bin/python
+[Info  - 11:47:56 am] Analysis caching mode: None.

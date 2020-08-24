@@ -1,0 +1,13 @@
+# settings
+
+(GimpGegl-gegl-long-shadow-config "2020-07-14 21:37:02"
+    (time 1594719422)
+    (style fading-fixed-length)
+    (angle 45)
+    (length 91.200000000000003)
+    (midpoint 100)
+    (midpoint-rel 0.23499999999999999)
+    (color (color-rgba 1 0 0 1))
+    (composition shadow-minus-image))
+
+# end of settings

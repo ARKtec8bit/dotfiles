@@ -1,0 +1,8 @@
+[2020-06-22 19:37:43.971] [sharedprocess] [info] main {"machineId":"b47e9e239a68c9eed55c4d86372685ac353968983e52682e2f79a79fc1eb5802","windowId":2}
+[2020-06-22 19:38:24.098] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-06-22 19:41:19.995] [sharedprocess] [info] Installing extension: himanoa.python-autopep8
+[2020-06-22 19:41:20.834] [sharedprocess] [info] Downloaded extension: himanoa.python-autopep8 /tmp/beddca23-63c5-4899-bcde-4189ead3032c
+[2020-06-22 19:41:21.000] [sharedprocess] [info] Extracted extension to /home/al/.vscode-oss/extensions/.himanoa.python-autopep8-1.0.2: himanoa.python-autopep8
+[2020-06-22 19:41:21.006] [sharedprocess] [info] Renamed to /home/al/.vscode-oss/extensions/himanoa.python-autopep8-1.0.2
+[2020-06-22 19:41:21.010] [sharedprocess] [info] Installation completed. himanoa.python-autopep8
+[2020-06-22 19:41:21.084] [sharedprocess] [info] Extensions installed successfully: himanoa.python-autopep8

@@ -1,0 +1,29 @@
+[Info  - 3:27:51 pm] Analysis cache path: /home/al/.cache/Microsoft/Python Language Server
+[Info  - 3:27:52 pm] Microsoft Python Language Server version 0.5.50.0
+[Info  - 3:27:52 pm] Workspace root: /home/al/code/python/cv
+[Info  - 3:27:52 pm] GetCurrentSearchPaths /home/al/.local/share/virtualenvs/ocr_server-ldMKCzQZ/bin/python 
+[Info  - 3:27:54 pm] Interpreter search paths:
+[Info  - 3:27:54 pm]     /usr/lib/python3.8
+[Info  - 3:27:54 pm]     /usr/lib/python3.8/lib-dynload
+[Info  - 3:27:54 pm]     /home/al/.local/share/virtualenvs/ocr_server-ldMKCzQZ/lib/python3.8/site-packages
+[Info  - 3:27:54 pm] User search paths:
+[Info  - 3:28:03 pm] Analysis cache path: /home/al/.cache/Microsoft/Python Language Server
+[Info  - 3:28:03 pm] Microsoft Python Language Server version 0.5.50.0
+[Info  - 3:28:03 pm] Workspace root: /home/al/code/python/cv
+[Info  - 3:28:04 pm] GetCurrentSearchPaths /usr/bin/python 
+[Info  - 3:28:06 pm] Interpreter search paths:
+[Info  - 3:28:06 pm]     /usr/lib/python3.8
+[Info  - 3:28:06 pm]     /usr/lib/python3.8/lib-dynload
+[Info  - 3:28:06 pm]     /home/al/.local/lib/python3.8/site-packages
+[Info  - 3:28:06 pm]     /usr/lib/python3.8/site-packages
+[Info  - 3:28:06 pm] User search paths:
+[Info  - 3:28:09 pm] Initializing for /usr/bin/python
+[Info  - 3:28:10 pm] Analysis caching mode: None.
+[Info  - 3:31:07 pm] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 3:31:07 pm] Deep learning IntelliCode recommendations service returned in 114 millis
+[Info  - 3:31:18 pm] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 3:31:18 pm] Deep learning IntelliCode recommendations service returned in 4 millis
+[Info  - 3:31:21 pm] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 3:31:21 pm] Deep learning IntelliCode recommendations service returned in 3 millis
+[Info  - 3:31:22 pm] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 3:31:22 pm] Deep learning IntelliCode recommendations service returned in 4 millis

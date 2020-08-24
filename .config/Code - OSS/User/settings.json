@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "Tron Legacy",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "files.autoSave": "afterDelay",
+    "python.languageServer": "Microsoft"
+}

@@ -1,0 +1,5 @@
+NZ Dictionary Changelog
+
+2008-12-03	Geoff Palmer	Converted old OOo2 NZ dictionary into OOo3 Extension format.
+2012-07-01  Chris Brooker Added NZ entries from old dictionary to current LibreOffice UK dictionary. Removed US thesaurus and added UK thesaurus from http://www.weeklywhinge.com/ / http://brit-thesaurus.sourceforge.net
+2012-10-15  Chris Brooker Removed some duplicates 

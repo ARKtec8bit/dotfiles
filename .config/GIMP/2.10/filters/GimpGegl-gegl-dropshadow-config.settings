@@ -1,0 +1,18 @@
+# settings
+
+(GimpGegl-gegl-dropshadow-config "2020-07-14 21:23:59"
+    (time 1594718639)
+    (x 25.234999999999999)
+    (y 25.234999999999999)
+    (radius 10)
+    (color (color-rgba 1 0 0 1))
+    (opacity 2))
+(GimpGegl-gegl-dropshadow-config "2020-07-14 21:22:42"
+    (time 1594718562)
+    (x 20.940000000000001)
+    (y 20.940000000000001)
+    (radius 18.789999999999999)
+    (color (color-rgba 1 0 0 1))
+    (opacity 1.143))
+
+# end of settings

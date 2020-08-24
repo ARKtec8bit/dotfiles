@@ -1,0 +1,14 @@
+[2020-08-08 11:34:29.805] [sharedprocess] [info] main {"machineId":"b47e9e239a68c9eed55c4d86372685ac353968983e52682e2f79a79fc1eb5802","windowId":2}
+[2020-08-08 11:34:38.328] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-08-08 11:34:38.344] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2020-08-08 11:34:51.387] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /home/al/.config/Code - OSS/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.2.9
+[2020-08-08 11:35:05.082] [sharedprocess] [info] Downloaded extension: ms-python.python /home/al/.config/Code - OSS/CachedExtensionVSIXs/ms-python.python-2020.7.96456
+[2020-08-08 11:35:06.389] [sharedprocess] [info] Extracted extension to /home/al/.vscode-oss/extensions/.visualstudioexptteam.vscodeintellicode-1.2.9: visualstudioexptteam.vscodeintellicode
+[2020-08-08 11:35:06.391] [sharedprocess] [info] Renamed to /home/al/.vscode-oss/extensions/visualstudioexptteam.vscodeintellicode-1.2.9
+[2020-08-08 11:35:06.396] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2020-08-08 11:35:06.650] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode
+[2020-08-08 11:35:09.868] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-08-08 11:35:27.916] [sharedprocess] [info] Extracted extension to /home/al/.vscode-oss/extensions/.ms-python.python-2020.7.96456: ms-python.python
+[2020-08-08 11:35:27.917] [sharedprocess] [info] Renamed to /home/al/.vscode-oss/extensions/ms-python.python-2020.7.96456
+[2020-08-08 11:35:27.934] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-08-08 11:35:28.502] [sharedprocess] [info] Extensions installed successfully: ms-python.python

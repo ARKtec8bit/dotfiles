@@ -1,0 +1,7 @@
+Acquiring model 'intellisense-members-lstm' for python
+Querying IntelliCode service for available models.
+Downloading model.
+Starting download of https://cdsmprodstg.blob.core.windows.net/models-prod-output/Output_15708AE89896CA5DF1690433B7A8D93D28B7_215F8B4FAB1F4663ABD624559FD205B9?sv=2018-03-28&sr=b&sig=uWn3Ti%2FA31awBSL5FGVPKg2pUm7sJh%2F6n9dpO5waD4c%3D&se=2020-06-21T23%3A25%3A39Z&sp=r
+Download complete.
+vs-intellicode-python was passed a model: {"modelId":"15708AE89896CA5DF1690433B7A8D93D28B7","modelPath":"/home/al/.vscode-oss/extensions/visualstudioexptteam.vscodeintellicode-1.2.8/cache/15708AE89896CA5DF1690433B7A8D93D28B7_215F8B4FAB1F4663ABD624559FD205B9","outputId":"215F8B4FAB1F4663ABD624559FD205B9"}.
+Loaded language server extension.

@@ -1,0 +1,11 @@
+# GIMP gimp-text-tool options
+
+(foreground (color-rgb 1 0 0))
+(palette "Color History")
+(font "Pauls Celtic Font 1,")
+(font-size 263)
+(hint-style none)
+(justify center)
+(box-mode fixed)
+
+# end of gimp-text-tool options

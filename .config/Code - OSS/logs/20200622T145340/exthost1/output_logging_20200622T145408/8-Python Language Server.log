@@ -1,0 +1,24 @@
+[Info  - 2:54:13 pm] Analysis cache path: /home/al/.cache/Microsoft/Python Language Server
+[Info  - 2:54:13 pm] Microsoft Python Language Server version 0.5.50.0
+[Info  - 2:54:13 pm] Workspace root: /home/al/code/python/cv/cameo
+[Info  - 2:54:14 pm] GetCurrentSearchPaths /home/al/.local/share/virtualenvs/ocr_server-ldMKCzQZ/bin/python 
+[Info  - 2:54:17 pm] Interpreter search paths:
+[Info  - 2:54:17 pm]     /usr/lib/python3.8
+[Info  - 2:54:17 pm]     /usr/lib/python3.8/lib-dynload
+[Info  - 2:54:17 pm]     /home/al/.local/share/virtualenvs/ocr_server-ldMKCzQZ/lib/python3.8/site-packages
+[Info  - 2:54:17 pm] User search paths:
+[Info  - 2:54:22 pm] Initializing for /home/al/.local/share/virtualenvs/ocr_server-ldMKCzQZ/bin/python
+[Info  - 2:54:22 pm] Analysis caching mode: None.
+[Info  - 2:54:53 pm] Analysis caching mode: None.
+[Info  - 2:54:56 pm] Analysis cache path: /home/al/.cache/Microsoft/Python Language Server
+[Info  - 2:54:56 pm] Microsoft Python Language Server version 0.5.50.0
+[Info  - 2:54:56 pm] Workspace root: /home/al/code/python/cv/cameo
+[Info  - 2:55:00 pm] GetCurrentSearchPaths /usr/bin/python 
+[Info  - 2:55:00 pm] Interpreter search paths:
+[Info  - 2:55:00 pm]     /usr/lib/python3.8
+[Info  - 2:55:00 pm]     /usr/lib/python3.8/lib-dynload
+[Info  - 2:55:00 pm]     /home/al/.local/lib/python3.8/site-packages
+[Info  - 2:55:00 pm]     /usr/lib/python3.8/site-packages
+[Info  - 2:55:00 pm] User search paths:
+[Info  - 2:55:06 pm] Initializing for /usr/bin/python
+[Info  - 2:55:06 pm] Analysis caching mode: None.

@@ -1,0 +1,12 @@
+[Info  - 5:55:33 pm] Analysis cache path: /home/al/.cache/Microsoft/Python Language Server
+[Info  - 5:55:33 pm] Microsoft Python Language Server version 0.5.45.0
+[Info  - 5:55:33 pm] Workspace root: 
+[Info  - 5:55:34 pm] GetCurrentSearchPaths /usr/bin/python 
+[Info  - 5:55:37 pm] Interpreter search paths:
+[Info  - 5:55:37 pm]     /usr/lib/python3.8
+[Info  - 5:55:37 pm]     /usr/lib/python3.8/lib-dynload
+[Info  - 5:55:37 pm]     /home/al/.local/lib/python3.8/site-packages
+[Info  - 5:55:37 pm]     /usr/lib/python3.8/site-packages
+[Info  - 5:55:37 pm] User search paths:
+[Info  - 5:55:51 pm] Initializing for /usr/bin/python
+[Info  - 5:55:51 pm] Analysis caching mode: None.

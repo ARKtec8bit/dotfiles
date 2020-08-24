@@ -1,0 +1,8 @@
+[2020-06-22 15:27:31.797] [sharedprocess] [info] main {"machineId":"b47e9e239a68c9eed55c4d86372685ac353968983e52682e2f79a79fc1eb5802","windowId":2}
+[2020-06-22 15:28:12.193] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-06-22 15:29:16.862] [sharedprocess] [info] Installing extension: bcomnes.tron-legacy
+[2020-06-22 15:29:19.623] [sharedprocess] [info] Downloaded extension: bcomnes.tron-legacy /tmp/5b04440a-08a9-48f9-bb4b-6efae8e075e8
+[2020-06-22 15:29:20.105] [sharedprocess] [info] Extracted extension to /home/al/.vscode-oss/extensions/.bcomnes.tron-legacy-1.1.0: bcomnes.tron-legacy
+[2020-06-22 15:29:20.107] [sharedprocess] [info] Renamed to /home/al/.vscode-oss/extensions/bcomnes.tron-legacy-1.1.0
+[2020-06-22 15:29:20.109] [sharedprocess] [info] Installation completed. bcomnes.tron-legacy
+[2020-06-22 15:29:20.202] [sharedprocess] [info] Extensions installed successfully: bcomnes.tron-legacy

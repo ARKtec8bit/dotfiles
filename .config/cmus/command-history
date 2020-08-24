@@ -1,0 +1,8 @@
+q
+add /Music
+add *.*
+add
+Add
+bind -f common 3 view playlist
+bind -f common 1 view tree
+library

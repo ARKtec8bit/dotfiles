@@ -1,0 +1,29 @@
+Downloading https://pvsc.azureedge.net/python-language-server-stable/Python-Language-Server-linux-x64.0.5.50.nupkg...
+Language server download complete
+Unpacking archive... done
+[Info  - 10:58:53 am] Analysis cache path: /home/al/.cache/Microsoft/Python Language Server
+[Info  - 10:58:54 am] Microsoft Python Language Server version 0.5.50.0
+[Info  - 10:58:54 am] Workspace root: /home/al/ocr_server
+[Info  - 10:58:55 am] GetCurrentSearchPaths /usr/bin/python 
+[Info  - 10:58:56 am] Interpreter search paths:
+[Info  - 10:58:56 am]     /usr/lib/python3.8
+[Info  - 10:58:56 am]     /usr/lib/python3.8/lib-dynload
+[Info  - 10:58:56 am]     /home/al/.local/lib/python3.8/site-packages
+[Info  - 10:58:56 am]     /usr/lib/python3.8/site-packages
+[Info  - 10:58:56 am] User search paths:
+[Info  - 10:59:06 am] Initializing for /usr/bin/python
+[Info  - 10:59:06 am] Analysis caching mode: None.
+[Info  - 11:00:25 am] Analysis caching mode: None.
+[Info  - 11:00:35 am] Analysis cache path: /home/al/.cache/Microsoft/Python Language Server
+[Info  - 11:00:35 am] Microsoft Python Language Server version 0.5.50.0
+[Info  - 11:00:35 am] Workspace root: /home/al/ocr_server
+[Info  - 11:00:37 am] GetCurrentSearchPaths /home/al/.local/share/virtualenvs/ocr_server-ldMKCzQZ/bin/python 
+[Info  - 11:00:37 am] Interpreter search paths:
+[Info  - 11:00:37 am]     /usr/lib/python3.8
+[Info  - 11:00:37 am]     /usr/lib/python3.8/lib-dynload
+[Info  - 11:00:37 am]     /home/al/.local/share/virtualenvs/ocr_server-ldMKCzQZ/lib/python3.8/site-packages
+[Info  - 11:00:37 am] User search paths:
+[Info  - 11:00:51 am] Initializing for /home/al/.local/share/virtualenvs/ocr_server-ldMKCzQZ/bin/python
+[Info  - 11:00:51 am] Analysis caching mode: None.
+[Info  - 11:05:36 am] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 11:05:36 am] Deep learning IntelliCode recommendations service returned in 89 millis

@@ -1,0 +1,11 @@
+[Info  - 7:38:38 pm] Analysis cache path: /home/al/.cache/Microsoft/Python Language Server
+[Info  - 7:38:39 pm] Microsoft Python Language Server version 0.5.50.0
+[Info  - 7:38:39 pm] Workspace root: /home/al/.config/qtile
+[Info  - 7:38:40 pm] GetCurrentSearchPaths /home/al/.local/share/virtualenvs/ocr_server-ldMKCzQZ/bin/python 
+[Info  - 7:38:41 pm] Interpreter search paths:
+[Info  - 7:38:41 pm]     /usr/lib/python3.8
+[Info  - 7:38:41 pm]     /usr/lib/python3.8/lib-dynload
+[Info  - 7:38:41 pm]     /home/al/.local/share/virtualenvs/ocr_server-ldMKCzQZ/lib/python3.8/site-packages
+[Info  - 7:38:41 pm] User search paths:
+[Info  - 7:39:00 pm] Initializing for /home/al/.local/share/virtualenvs/ocr_server-ldMKCzQZ/bin/python
+[Info  - 7:39:00 pm] Analysis caching mode: None.

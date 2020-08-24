@@ -1,0 +1,8 @@
+[2020-04-28 17:54:56.582] [sharedprocess] [info] main {"machineId":"b47e9e239a68c9eed55c4d86372685ac353968983e52682e2f79a79fc1eb5802","windowId":2}
+[2020-04-28 17:55:04.078] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-04-28 17:55:36.655] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-04-28 17:58:45.512] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/a4f73f10-2a4d-48ee-964a-46b4c49229f7
+[2020-04-28 17:59:03.388] [sharedprocess] [info] Extracted extension to /home/al/.vscode-oss/extensions/.ms-python.python-2020.4.76186: ms-python.python
+[2020-04-28 17:59:03.389] [sharedprocess] [info] Renamed to /home/al/.vscode-oss/extensions/ms-python.python-2020.4.76186
+[2020-04-28 17:59:03.408] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-04-28 17:59:04.541] [sharedprocess] [info] Extensions installed successfully: ms-python.python
